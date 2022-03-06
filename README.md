@@ -5,7 +5,7 @@ For this purpose Unity libraries has been used and for making thing easier they 
 
 Here are some examples on how to use this Library
 
-#Getting a Texture2D from a png
+##Getting a Texture2D from a png
 We can load the texture2D from an image/png stored in a directory by using the following code
 
     ```csharp
