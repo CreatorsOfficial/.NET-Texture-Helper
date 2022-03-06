@@ -1,4 +1,4 @@
-### .NET-Texture-Helper
+# .NET-Texture-Helper
 .NET Texture Helper is a C# library used for texture format encoding and decoding used in Unity 3d
 
 For this purpose Unity libraries has been used and for making thing easier they are used by another native library
