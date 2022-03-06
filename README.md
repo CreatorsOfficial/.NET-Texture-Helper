@@ -3,6 +3,7 @@
 
 For this purpose Unity libraries has been used and for making thing easier they are used by another native library
 
+You can use the library by adding at the top ```using CreatorsTextureLibrary;```
 Here are some examples on how to use this Library
 
 # Getting a Texture2D from a png
